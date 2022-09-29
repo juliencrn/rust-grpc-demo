@@ -1,3 +1,4 @@
 {
-  "cSpell.words": ["proto"]
+  "cSpell.words": ["proto"],
+  "rust-analyzer.cargo.buildScripts.enable": true
 }
